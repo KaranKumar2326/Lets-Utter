@@ -64,7 +64,7 @@ Once a user is selected, the chat conversation opens up, and real-time messaging
      ```bash
      MONGO_URI=your_mongo_db_connection_string
      JWT_SECRET=your_jwt_secret
-     PORT=5000
+     PORT=8080
      ```
    - Start the backend server:
      ```bash
