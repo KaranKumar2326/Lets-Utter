@@ -22,7 +22,7 @@
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (NoSQL database)
 - **Real-time Communication**: Socket.io
-- **Styling**: Custom CSS and Bootstrap
+- **Styling**: Custom CSS and Tailwind
 - **Authentication**: JWT (JSON Web Token) based authentication
 - **Development Tools**: Visual Studio Code, MongoDB Atlas, Postman
 
