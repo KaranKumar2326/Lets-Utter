@@ -88,7 +88,7 @@ Once a user is selected, the chat conversation opens up, and real-time messaging
 
 5. **Running the App:**
 
-   - The frontend will run on `http://localhost:3000`, and the backend API will be available at `http://localhost:5000`.
+   - The frontend will run on `http://localhost:3000`, and the backend API will be available at `http://localhost:8080`.
 
 6. **Socket.io Setup:**
 
